@@ -2,6 +2,23 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Bottleneck @ file:///C:/ci/bottleneck_1648010904582/work
+# cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+# joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+# kiwisolver @ file:///C:/ci/kiwisolver_1644962577370/work
+# matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+# mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+# numexpr @ file:///C:/ci/numexpr_1640704337920/work
+# packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+# pandas @ file:///C:/ci/pandas_1647936849302/work
+# python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+# scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
+# scipy @ file:///C:/ci/scipy_1641555170412/work
+# six @ file:///tmp/build/80754af9/six_1644875935023/work
+# tornado @ file:///C:/ci/tornado_1606924294691/work
+
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+
 def shorten_categories(categories, cutoff):
     category={}
     for i in range(len(categories)):
