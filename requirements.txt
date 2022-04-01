@@ -10,7 +10,7 @@ matplotlib == 3.5.1
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\Untitled-checkpoint.ipynb: 106
 # C:\Users\cvmka\SalaryPrediction\SalaryPrediction.ipynb: 106
 # C:\Users\cvmka\SalaryPrediction\predict_page.py: 3
-numpy == 1.22.3
+numpy == 1.19.0
 
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\SalaryPrediction-checkpoint.ipynb: 1
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\Untitled-checkpoint.ipynb: 1
