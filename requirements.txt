@@ -16,7 +16,7 @@ numpy == 1.19.0
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\Untitled-checkpoint.ipynb: 1
 # C:\Users\cvmka\SalaryPrediction\SalaryPrediction.ipynb: 1
 # C:\Users\cvmka\SalaryPrediction\explore_page.py: 2
-pandas == 1.4.1
+pandas == 1.3.5
 
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\SalaryPrediction-checkpoint.ipynb: 91,95,99,105,109,110
 # C:\Users\cvmka\SalaryPrediction\.ipynb_checkpoints\Untitled-checkpoint.ipynb: 91,95,99,105,109,110
